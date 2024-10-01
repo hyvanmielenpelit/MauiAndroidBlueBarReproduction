@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAndroidBlueBarReproductionApp", "MauiAndroidBlueBarReproductionApp\MauiAndroidBlueBarReproductionApp.csproj", "{759CB10A-D908-4339-B57C-0A6D7F3CE65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759CB10A-D908-4339-B57C-0A6D7F3CE65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759CB10A-D908-4339-B57C-0A6D7F3CE65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759CB10A-D908-4339-B57C-0A6D7F3CE65F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{759CB10A-D908-4339-B57C-0A6D7F3CE65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759CB10A-D908-4339-B57C-0A6D7F3CE65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98AF5C3-D985-4716-9D3F-A8F38C57F814}
+	EndGlobalSection
+EndGlobal
